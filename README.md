@@ -36,11 +36,11 @@ Welcome to the **Google Gemini AI Chatbot** project! This is an AI-powered chatb
 
 Replace the placeholder YOUR_GEMINI_API_KEY in the script.js file with your actual Gemini API key.
 
-Open the project in your web browser:
+### Open the project in your web browser:
 
 Simply open the index.html file in any browser to start interacting with the chatbot.
 
-Features in Detail
+### Features in Detail
 1. Chat Interface: The chatbot interface includes a chat window where users can type their messages, and the AI responds accordingly.
 
 2. File Upload: Users can upload files or images, which are then used by the Gemini AI to provide responses based on the contents of the file.
