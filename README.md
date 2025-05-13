@@ -6,6 +6,8 @@
 
 Welcome to the **Google Gemini AI Chatbot** project! This is an AI-powered chatbot built using HTML, CSS, and JavaScript, utilizing the free Google Gemini API. The chatbot allows users to interact with AI, upload files or images for context-based queries, and switch between light and dark themes.
 
+![image](https://github.com/user-attachments/assets/795fc316-2c39-4800-abfe-fa2eafb3290c)
+
 
 ## Features
 
